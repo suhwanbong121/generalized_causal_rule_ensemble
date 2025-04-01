@@ -1,1 +1,3 @@
-# generalized_causal_rule_ensemble
+# Generalized Causal Rule Emsemble
+
+...
